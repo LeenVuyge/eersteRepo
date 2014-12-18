@@ -1,4 +1,4 @@
 eersteRepo
 ==========
 
-Eerste eigen repository op GitHub
+Dat is hier toch een Java project he?
